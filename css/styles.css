@@ -1,0 +1,179 @@
+/*--------------------------HTML---------------------*/
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  color: #40514E;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 600%;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #E8B835;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #E8B835;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  width: 5%;
+  border-width: 7px 0 0 0;
+  border-style: dotted;
+  color: #EAF6F6;
+  margin: 50px auto 50px auto;
+}
+
+/*--------------------------SELECTORS--------------------------------*/
+.subtitle {
+  color: #ffffff;
+}
+
+.profile-img {
+  width: 200px;
+  border-radius: 100%;
+  display: none;
+}
+
+.intro-p {
+  display: inline-block;
+  width: 30%;
+  line-height: 2;
+
+}
+
+.code-img {
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+}
+
+.adobe-img {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+  padding: 10px;
+}
+
+.top-container {
+  background-color: #FFCA3A;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.navbar {
+  list-style-type: none;
+  padding: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  background-color: white;
+  margin: 50px 5px 5px 5px;
+  border-radius: 15px;
+  color: #808080;
+}
+
+.nav-item:hover {
+  background-color: #66BFBF;
+}
+
+.middle-container {
+  margin: 100px 50px 0 50px;
+}
+
+.bottom-container {
+  background-color: #FFCA3A;
+  color:#EAF6F6;
+  margin-top: 0;
+  padding: 50px;
+  padding-bottom: 20px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  display: none;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  display: none;
+}
+
+.skill-row {
+  width: 50%;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.skills {
+  margin: 50px;
+}
+
+.btn {
+  -webkit-border-radius: 11;
+  -moz-border-radius: 11;
+  border-radius: 11px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  background: #66BFBF;
+  margin: 50px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  display: inline-block;
+
+}
+
+.btn:hover {
+  background: #3b9c9c;
+  text-decoration: none;
+}
+
+.buffl-img {
+  width: 50%;
+  margin-top: 50px;
+  position:relative;
+  top: 10px;
+}
+
+.footer-link {
+  margin: 20px;
+  color:#E8B835;
+  text-decoration: none;
+}
+
+.kdg-logo {
+  position:absolute;
+  display: inline-block;
+  width: 15%;
+  left: 30px;
+  top: 20px;
+}
+
+.copyright {
+  color: white;
+  font-weight: lighter;
+  font-size:0.75rem;
+  margin-bottom:0;
+  margin-top: 50px;
+}
