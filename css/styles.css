@@ -163,6 +163,11 @@ hr {
   text-decoration: none;
 }
 
+.footer-link:hover {
+  color: #ffffff;
+  font-weight: 900;
+}
+
 .kdg-logo {
   position:absolute;
   display: inline-block;
