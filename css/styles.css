@@ -47,10 +47,10 @@ hr {
 }
 
 .intro-p {
-  display: inline-block;
+  display:block;
   width: 30%;
   line-height: 2;
-
+  margin: 50px auto 50px auto;
 }
 
 .code-img {
@@ -170,7 +170,7 @@ hr {
 .kdg-logo {
   position:absolute;
   display: inline-block;
-  width: 15%;
+  width: 200px;
   left: 30px;
   top: 20px;
 }
