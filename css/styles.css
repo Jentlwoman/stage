@@ -225,3 +225,8 @@ hr {
   margin-left: auto;
   margin-right:auto;
 }
+
+/**********************PORTFOLIO*******************************/
+.portfolio-img {
+  width: 60%;
+}
