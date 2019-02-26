@@ -201,6 +201,7 @@ hr {
 
 .blog-title {
   margin: 0;
+  padding-right: 20px;
 }
 
 .blog-date {
@@ -231,9 +232,6 @@ hr {
   margin-bottom: 50px;
 }
 
-.agenda-img {
-
-}
 
 /**********************PORTFOLIO*******************************/
 .portfolio-img {
