@@ -232,6 +232,16 @@ hr {
   margin-bottom: 50px;
 }
 
+.code-text {
+  width: 75%;
+  color: #66BFBF;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+
 
 /**********************PORTFOLIO*******************************/
 .portfolio-img {
