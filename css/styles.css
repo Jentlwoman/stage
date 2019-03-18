@@ -186,6 +186,12 @@ hr {
   margin-top: 50px;
 }
 
+.disclaimer {
+  padding-top: 10px;
+  font-size: 0.5rem;
+  color: black;
+}
+
 /*************************************BLOG******************************/
 
 .left {
