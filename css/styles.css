@@ -35,6 +35,14 @@ hr {
   margin: 50px auto 50px auto;
 }
 
+table {
+  width: 90%;
+}
+
+td {
+  padding: 20px;
+}
+
 /*--------------------------SELECTORS--------------------------------*/
 .subtitle {
   color: #ffffff;
@@ -245,6 +253,14 @@ hr {
   margin-right: auto;
   margin-top: 0;
   margin-bottom: 0;
+}
+
+.float-right {
+  position: relative;
+  float: right;
+  width: 30%;
+  padding: 10px;
+  bottom: 10px;
 }
 
 
