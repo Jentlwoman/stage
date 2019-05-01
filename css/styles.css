@@ -269,3 +269,8 @@ td {
 .portfolio-img {
   width: 60%;
 }
+
+.inline-element {
+  display: inline-block;
+  width: 25%;
+}
